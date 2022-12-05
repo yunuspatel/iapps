@@ -13,7 +13,7 @@ Eclipse/STS/CMD/TERMINAL
 - Before starting application you must need to build the project using following command.
 
 ```shell
-mvn clean install
+mvnw clean install
 ```
 Command to execute:-
 
