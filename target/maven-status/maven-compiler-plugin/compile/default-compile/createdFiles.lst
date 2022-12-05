@@ -1,0 +1,17 @@
+com\practical\iapps\dto\DeviceInfo.class
+com\practical\iapps\controller\EpaperController.class
+com\practical\iapps\repository\EpaperRepository.class
+com\practical\iapps\service\EpaperServiceImpl.class
+com\practical\iapps\utility\XMLUtility.class
+com\practical\iapps\IAppsApplication.class
+com\practical\iapps\model\Epaper.class
+com\practical\iapps\dto\EpaperRequestDto.class
+com\practical\iapps\model\Epaper$EpaperBuilder.class
+com\practical\iapps\dto\OsInfo.class
+com\practical\iapps\exception\XMLExceptionHandler.class
+com\practical\iapps\dto\EpaperDto.class
+com\practical\iapps\dto\ScreenInfo.class
+com\practical\iapps\dto\EpaperDto$EpaperDtoBuilder.class
+com\practical\iapps\service\EpaperService.class
+com\practical\iapps\dto\GetPages.class
+com\practical\iapps\dto\AppInfo.class
